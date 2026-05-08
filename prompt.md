@@ -1,5 +1,5 @@
 Please implement a complete, feature-rich, and highly performant market list and expense tracking application with the following specifications.
-/home/user/studio/.next
+
 **1. Core Application Logic (Market List & Expense Tracking):**
    - The application should allow users to create, manage, and track market lists.
    - Users can add items with details like name, quantity, rate, and price.
